@@ -14,7 +14,7 @@ Start a SonarQube server with a Postgres database to run SonarQube analysis on y
 First clone the project:
 
 ```bash
-$ git clone ssh://git@stash.pontoslivelo.com.br:7999/~9002331/sonar-docker.git
+$ git clone git@github.com:valdemarjuniorr/sonar-docker.git
 $ cd sonar-docker
 ```
 
